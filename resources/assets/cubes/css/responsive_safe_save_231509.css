@@ -1,0 +1,1016 @@
+@charset "utf-8";
+/******************************************************
+                        h.b
+******************************************************/
+@media screen and (min-width: 1368px) and (max-width: 1770px) {
+    .lp_slogan_satir_2 {
+        font-size: 3rem;
+        line-height: 3.75rem;
+    }
+
+    .lp_slogan_satir_1 {
+        font-size: 4rem;
+        line-height: 4.25rem;
+    }
+}
+
+/******************************************************
+                        laptop
+******************************************************/
+@media screen and (min-width: 1025px) and (max-width: 1367px) {
+
+    .lp_anasayfalink {
+        top: 30px;
+        right: 4%;
+    }
+
+    .lp_formyeri {
+        top: 72px;
+        right: 6%;
+        width: 329px;
+    }
+
+    .lp_formyeri_baslik {
+        font-size: 35px;
+        margin-top: 25px;
+    }
+
+    .lp_formyeri_yazi {
+        font-size: 16px;
+        margin-top: 10px;
+    }
+
+    .lp_slogan_satir_2 {
+        font-size: 2.5rem;
+        line-height: 2.75rem;
+    }
+
+    .lp_slogan_satir_1 {
+        font-size: 3rem;
+        line-height: 3.25rem;
+    }
+
+    span.label_yazi {
+        margin-top: 8px;
+        display: inline;
+    }
+
+}
+
+/******************************************************
+                        ipadyatay
+******************************************************/
+@media screen and (min-width: 1024px) and (max-width: 1066px) {
+
+    .lp_anasayfalink {
+        top: 30px;
+        right: 4%;
+    }
+
+    .lp_formyeri {
+        top: 140px;
+        right: 6%;
+        width: 329px;
+    }
+
+    .lp_formyeri_baslik {
+        font-size: 35px;
+        margin-top: 25px;
+    }
+
+    .lp_formyeri_yazi {
+        font-size: 16px;
+        margin-top: 10px;
+    }
+
+    .lp_slogan_satir_2 {
+        font-size: 2rem;
+        line-height: 2.25rem;
+    }
+
+    .lp_slogan_satir_1 {
+        font-size: 2.5rem;
+        line-height: 2.75rem;
+    }
+
+    span.label_yazi {
+        margin-top: 8px;
+        display: inline;
+    }
+
+}
+
+/******************************************************
+                        ipaddik
+******************************************************/
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+    .lp_anasayfalink {
+        top: 0;
+        right: auto;
+        left: 0;
+    }
+
+    .mobilgoster {
+        display: inline-block
+    }
+
+    .mobilgizle {
+        display: none
+    }
+
+    .lp_anasayfalink span {
+        top: 68px;
+        left: -10px;
+        font-weight: 600;
+    }
+
+    .lp_anasayfalink a {
+        background-color: #99694b;
+        width: 43px;
+        height: 124px;
+        text-align: center;
+        padding-top: 20px;
+        display: inline-block;
+    }
+
+    .lp_header {
+        background-image: url(../images/ld_desktop_header_img_tablet.jpg);
+        height: auto;
+        padding-bottom: 30px;
+    }
+
+    .lp_slogan {
+        position: relative;
+        left: auto;
+        top: auto;
+        bottom: auto;
+        height: auto;
+        align-content: center;
+        display: inline;
+        flex-wrap: wrap;
+        float: right;
+        font-weight: 600;
+        margin-top: 33px;
+        width: 100%;
+        text-align: center;
+        margin-right: 0;
+        font-size: 2rem;
+        line-height: 2.25rem;
+    }
+
+    .lp_slogan_satir_2 {
+        font-size: 2rem;
+        text-shadow: 0px 3px 0px rgba(0, 0, 0, 0.48);
+        color: #fff;
+        float: left;
+        width: 100%;
+        line-height: 2.25rem;
+        text-align: center;
+    }
+
+    .lp_formyeri {
+        position: relative;
+        top: auto;
+        right: auto;
+        z-index: 3;
+        width: 100%;
+        float: right;
+        margin-right: 30px;
+        text-align: center;
+        margin-top: 0;
+    }
+
+    .lp_formyeri form {
+        max-width: 400px;
+        margin: 0 auto;
+        width: 80%;
+    }
+
+    .lp_slogan_satir_3 {
+        text-align: center;
+    }
+
+    span.label_yazi {
+        margin-top: 8px;
+        display: inline-block;
+        float: left;
+    }
+
+    .lp_main_alt_baslik_yazi {
+        font-size: 23px;
+    }
+
+    .lp_main_alt_baslik {
+        margin-top: 20px;
+    }
+
+    .lp_footer_logolar {
+        float: left;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        max-width: 800px;
+        margin-top: 150px;
+    }
+
+    .lp_footer_logolar_nuhoglu {
+        margin-right: 30px;
+    }
+
+    .lp_footer_logolar_dalgic {
+        margin-right: 30px;
+    }
+
+    .lp_footer_dokuzyilda {
+        float: right;
+        width: 100%;
+        margin-top: 31px;
+        text-align: center;
+        padding-bottom: 20px;
+    }
+
+    section.lp_main_alt {
+        margin-top: 35px;
+    }
+
+    .lp_footer_logolar_lejant {
+        margin-right: 30px;
+    }
+
+    .lp_main_headeryazi {
+        margin-top: 111px;
+    }
+
+    .lpmain_header_dokuzuncuyil {
+        top: -56px;
+    }
+
+}
+
+/******************************************************
+                        mobilyatay
+******************************************************/
+@media screen and (min-width: 481px) and (max-width: 767px) {
+
+        .address {
+        visibility: visible; 
+        color: #fff;
+        padding: 3rem 5rem;
+        display: block;
+        clear: both;
+        text-align: left;
+    }
+    .address strong {
+        padding-top: 10px;
+    }
+
+    .lp_anasayfalink {
+        top: 0;
+        right: auto;
+        left: 0;
+    }
+
+    .mobilgoster {
+        display: inline-block
+    }
+
+    .mobilgizle {
+        display: none
+    }
+
+    .lp_anasayfalink span {
+        top: 68px;
+        left: -10px;
+        font-weight: 600;
+    }
+
+    .lp_anasayfalink a {
+        background-color: #99694b;
+        width: 43px;
+        height: 124px;
+        text-align: center;
+        padding-top: 20px;
+        display: inline-block;
+    }
+
+    .lp_header {
+        background-position: center top;
+        background-image: url(../images/ld_desktop_header_img_mobile.jpg);
+        height: auto;
+        padding-bottom: 20px;
+    }
+
+    .lp_slogan {
+        text-align: center;
+        position: relative;
+        left: auto;
+        top: auto;
+        bottom: auto;
+        height: auto;
+        align-content: center;
+        display: inline;
+        flex-wrap: wrap;
+        float: right;
+        font-weight: 600;
+        margin-top: 9px;
+        width: 100%;
+        z-index: 2;
+        margin-right: 0;
+    }
+
+    .lp_slogan_satir_2 {
+        font-size: 1.5rem;
+        text-shadow: 0px 3px 0px rgba(0, 0, 0, 0.48);
+        color: #fff;
+        float: left;
+        width: 100%;
+        line-height: 1.75rem;
+        text-align: center;
+    }
+
+    .lp_formyeri {
+        position: relative;
+        top: auto;
+        right: auto;
+        z-index: 3;
+        width: 100%;
+        float: right;
+        margin-right: 0;
+        text-align: center;
+        margin-top: 0;
+    }
+
+    .lp_slogan_satir_3 {
+        text-align: center;
+        font-size: 22px;
+    }
+
+    span.label_yazi {
+        margin-top: 8px;
+        display: inline;
+        float: none;
+        text-align: left;
+    }
+
+    .lp_main_alt_baslik_yazi {
+        font-size: 16px;
+    }
+
+    .lp_main_alt_baslik {
+        margin-top: 20px;
+    }
+
+    .lp_footer_logolar {
+        float: left;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        max-width: 800px;
+        margin-top: 58px;
+    }
+
+    .lp_footer_logolar_nuhoglu {
+        margin-right: 30px;
+    }
+
+    .lp_footer_logolar_dalgic {
+        margin-right: 30px;
+    }
+
+    .lp_footer_dokuzyilda {
+        float: right;
+        width: 100%;
+        margin-top: 31px;
+        text-align: center;
+        padding-bottom: 20px;
+    }
+
+    section.lp_main_alt {
+        margin-top: 35px;
+    }
+
+    .lp_footer_logolar_lejant {
+        margin-right: 30px;
+    }
+
+    .lp_main_header img {
+        width: 110px;
+    }
+
+    .lp_slogan_satir_2 span {
+        font-size: 60px;
+        -webkit-transform: translate(0, 5px);
+        -moz-transform: translate(0, 5px);
+        -ms-transform: translate(0, 5px);
+        -o-transform: translate(0, 5px);
+        transform: translate(0, 5px);
+    }
+
+    .lp_formyeri_logo img {
+        width: 75px;
+    }
+
+    .lp_formyeri_baslik {
+        margin-top: 20px;
+        font-size: 20px;
+    }
+
+    .lp_formyeri_altbaslik {
+        font-size: 15px;
+        margin-top: 24px;
+    }
+
+    .lp_formyeri_yazi {
+        font-size: 15px;
+        margin-top: 3px;
+    }
+
+    .lp_formyeri_form {
+        margin-top: 0px;
+        float: right;
+        width: 100%;
+        padding: 0 14%;
+    }
+
+    .lp_formyeri_formsatir {
+        margin-top: 5px;
+    }
+
+    .lp_formyeri_formsatir input {
+        padding: 6px 9px;
+        border: 1px solid #fff;
+    }
+
+    .lp_formyeri_bilgiyazisi {
+        margin-top: 3px;
+        text-align: left;
+    }
+
+    section.lp_main {
+        margin-top: 50px;
+    }
+
+    .lp_main_headeryazi {
+        margin-top: 33px;
+        font-size: 16px;
+    }
+
+    .lp_main_header span {
+        font-size: 16px;
+    }
+
+    .lp_main_yazi {
+        font-size: 12px;
+    }
+
+    .lp_footer_dokuzyilda img {
+        width: 80px;
+    }
+
+    .lp_formyeri_logo {
+        display: none;
+    }
+
+    .lp_slogan_satir_1 {
+        margin-top: 1rem;
+        line-height: 2.25rem;
+        font-size: 2rem;
+    }
+
+    .lpmain_header_dokuzuncuyil img {
+        width: 87px;
+    }
+
+    .lpmain_header_dokuzuncuyil {
+        position: absolute;
+        right: 0;
+        top: -33px;
+    }
+
+    button.lp_gonder {
+        font-size: 16px;
+        font-weight: 600;
+        background-color: transparent;
+        color: #fff;
+        border: 0;
+        cursor: pointer;
+        width: 100%;
+        text-align: center;
+        border: 1px solid #fff;
+        padding: 5px 0;
+    }
+
+}
+
+/******************************************************
+                        mobil
+******************************************************/
+@media screen and (min-width: 321px) and (max-width: 480px) {
+
+    .lp_anasayfalink {
+        top: 0;
+        right: auto;
+        left: 0;
+    }
+
+    .mobilgoster {
+        display: inline-block
+    }
+
+    .mobilgizle {
+        display: none
+    }
+
+    .lp_anasayfalink span {
+        top: 68px;
+        left: -10px;
+        font-weight: 600;
+    }
+
+    .lp_anasayfalink a {
+        background-color: #99694b;
+        width: 43px;
+        height: 124px;
+        text-align: center;
+        padding-top: 20px;
+        display: inline-block;
+    }
+
+    .lp_header {
+        background-position: center top;
+        background-image: url(../images/ld_desktop_header_img_mobile.jpg);
+        height: auto;
+        padding-bottom: 20px;
+    }
+
+    .lp_slogan {
+        text-align: center;
+        position: relative;
+        left: auto;
+        top: auto;
+        bottom: auto;
+        height: auto;
+        align-content: center;
+        display: inline;
+        flex-wrap: wrap;
+        float: right;
+        font-weight: 600;
+        margin-top: 9px;
+        width: 100%;
+        z-index: 2;
+        margin-right: 0;
+    }
+
+    .lp_slogan_satir_2 {
+        font-size: 1rem;
+        text-shadow: 0px 3px 0px rgba(0, 0, 0, 0.48);
+        color: #fff;
+        float: left;
+        width: 100%;
+        line-height: 1.25rem;
+        text-align: center;
+    }
+
+    .lp_formyeri {
+        position: relative;
+        top: auto;
+        right: auto;
+        z-index: 3;
+        width: 100%;
+        float: right;
+        margin-right: 0;
+        text-align: center;
+        margin-top: 0;
+    }
+
+    .lp_slogan_satir_3 {
+        text-align: center;
+        font-size: 22px;
+    }
+
+    span.label_yazi {
+        margin-top: 8px;
+        display: inline;
+        float: none;
+        text-align: left;
+    }
+
+    .lp_main_alt_baslik_yazi {
+        font-size: 16px;
+    }
+
+    .lp_main_alt_baslik {
+        margin-top: 20px;
+    }
+
+    .lp_footer_logolar {
+        float: left;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        max-width: 800px;
+        margin-top: 58px;
+    }
+
+    .lp_footer_logolar_nuhoglu {
+        margin-right: 30px;
+    }
+
+    .lp_footer_logolar_dalgic {
+        margin-right: 30px;
+    }
+
+    .lp_footer_dokuzyilda {
+        float: right;
+        width: 100%;
+        margin-top: 31px;
+        text-align: center;
+        padding-bottom: 20px;
+    }
+
+    section.lp_main_alt {
+        margin-top: 35px;
+    }
+
+    .lp_footer_logolar_lejant {
+        margin-right: 30px;
+    }
+
+    .lp_main_header img {
+        width: 110px;
+    }
+
+    .lp_slogan_satir_2 span {
+        font-size: 60px;
+        -webkit-transform: translate(0, 5px);
+        -moz-transform: translate(0, 5px);
+        -ms-transform: translate(0, 5px);
+        -o-transform: translate(0, 5px);
+        transform: translate(0, 5px);
+    }
+
+    .lp_formyeri_logo img {
+        width: 75px;
+    }
+
+    .lp_formyeri_baslik {
+        margin-top: 20px;
+        font-size: 20px;
+    }
+
+    .lp_formyeri_altbaslik {
+        font-size: 15px;
+        margin-top: 24px;
+    }
+
+    .lp_formyeri_yazi {
+        font-size: 15px;
+        margin-top: 3px;
+    }
+
+    .lp_formyeri_form {
+        margin-top: 0px;
+        float: right;
+        width: 100%;
+        padding: 0 14%;
+    }
+
+    .lp_formyeri_formsatir {
+        margin-top: 5px;
+    }
+
+    .lp_formyeri_formsatir input {
+        padding: 6px 9px;
+        border: 1px solid #fff;
+    }
+
+    .lp_formyeri_bilgiyazisi {
+        margin-top: 3px;
+        text-align: left;
+    }
+
+    section.lp_main {
+        margin-top: 50px;
+    }
+
+    .lp_main_headeryazi {
+        margin-top: 33px;
+        font-size: 16px;
+    }
+
+    .lp_main_header span {
+        font-size: 16px;
+    }
+
+    .lp_main_yazi {
+        font-size: 12px;
+    }
+
+    .lp_footer_dokuzyilda img {
+        width: 80px;
+    }
+
+    .lp_formyeri_logo {
+        display: none;
+    }
+
+    .lp_slogan_satir_1 {
+        margin-top: 50px;
+        line-height: 23px;
+        font-size: 20px;
+        t
+    }
+
+    .lpmain_header_dokuzuncuyil img {
+        width: 87px;
+    }
+
+    .lpmain_header_dokuzuncuyil {
+        position: absolute;
+        right: 0;
+        top: -33px;
+    }
+
+    button.lp_gonder {
+        font-size: 16px;
+        font-weight: 600;
+        background-color: transparent;
+        color: #fff;
+        border: 0;
+        cursor: pointer;
+        width: 100%;
+        text-align: center;
+        border: 1px solid #fff;
+        padding: 5px 0;
+    }
+
+    .address {
+        visibility: visible; 
+        color: #fff;
+        padding: 3rem;
+        display: block;
+        clear: both;
+        text-align: left;
+    }
+    .address strong {
+        padding-top: 10px;
+    }
+
+}
+
+/******************************************************
+                        iphone 5-
+******************************************************/
+@media screen and (min-width: 0px) and (max-width: 320px) {
+
+    .lp_anasayfalink {
+        top: 0;
+        right: auto;
+        left: 0;
+    }
+
+    .mobilgoster {
+        display: inline-block
+    }
+
+    .mobilgizle {
+        display: none
+    }
+
+    .lp_anasayfalink span {
+        top: 68px;
+        left: -10px;
+        font-weight: 600;
+    }
+
+    .lp_anasayfalink a {
+        background-color: #99694b;
+        width: 43px;
+        height: 124px;
+        text-align: center;
+        padding-top: 20px;
+        display: inline-block;
+    }
+
+    .lp_header {
+        background-position: center top;
+        background-image: url(../images/ld_desktop_header_img_mobile.jpg);
+        height: auto;
+        padding-bottom: 20px;
+    }
+
+    .lp_slogan {
+        text-align: center;
+        position: relative;
+        left: auto;
+        top: auto;
+        bottom: auto;
+        height: auto;
+        align-content: center;
+        display: inline;
+        flex-wrap: wrap;
+        float: right;
+        font-weight: 600;
+        margin-top: 9px;
+        width: 100%;
+        z-index: 2;
+        margin-right: 0;
+    }
+
+    .lp_slogan_satir_2 {
+        font-size: 1rem;
+        text-shadow: 0px 3px 0px rgba(0, 0, 0, 0.48);
+        color: #fff;
+        float: left;
+        width: 100%;
+        line-height: 1.25rem;
+        text-align: center;
+    }
+
+    .lp_formyeri {
+        position: relative;
+        top: auto;
+        right: auto;
+        z-index: 3;
+        width: 100%;
+        float: right;
+        margin-right: 0;
+        text-align: center;
+        margin-top: 0;
+    }
+
+    .lp_slogan_satir_3 {
+        text-align: center;
+        font-size: 22px;
+    }
+
+    span.label_yazi {
+        margin-top: 8px;
+        display: inline;
+        float: none;
+        text-align: left;
+    }
+
+    .lp_main_alt_baslik_yazi {
+        font-size: 16px;
+    }
+
+    .lp_main_alt_baslik {
+        margin-top: 20px;
+    }
+
+    .lp_footer_logolar {
+        float: left;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        max-width: 800px;
+        margin-top: 58px;
+    }
+
+    .lp_footer_logolar_nuhoglu {
+        margin-right: 30px;
+    }
+
+    .lp_footer_logolar_dalgic {
+        margin-right: 30px;
+    }
+
+    .lp_footer_dokuzyilda {
+        float: right;
+        width: 100%;
+        margin-top: 31px;
+        text-align: center;
+        padding-bottom: 20px;
+    }
+
+    section.lp_main_alt {
+        margin-top: 35px;
+    }
+
+    .lp_footer_logolar_lejant {
+        margin-right: 30px;
+    }
+
+    .lp_main_header img {
+        width: 110px;
+    }
+
+    .lp_slogan_satir_2 span {
+        font-size: 60px;
+        -webkit-transform: translate(0, 5px);
+        -moz-transform: translate(0, 5px);
+        -ms-transform: translate(0, 5px);
+        -o-transform: translate(0, 5px);
+        transform: translate(0, 5px);
+    }
+
+    .lp_formyeri_logo img {
+        width: 75px;
+    }
+
+    .lp_formyeri_baslik {
+        margin-top: 20px;
+        font-size: 20px;
+    }
+
+    .lp_formyeri_altbaslik {
+        font-size: 15px;
+        margin-top: 24px;
+    }
+
+    .lp_formyeri_yazi {
+        font-size: 15px;
+        margin-top: 3px;
+    }
+
+    .lp_formyeri_form {
+        margin-top: 0px;
+        float: right;
+        width: 100%;
+        padding: 0 14%;
+    }
+
+    .lp_formyeri_formsatir {
+        margin-top: 5px;
+    }
+
+    .lp_formyeri_formsatir input {
+        padding: 6px 9px;
+        border: 1px solid #fff;
+    }
+
+    .lp_formyeri_bilgiyazisi {
+        margin-top: 3px;
+        text-align: left;
+    }
+
+    section.lp_main {
+        margin-top: 50px;
+    }
+
+    .lp_main_headeryazi {
+        margin-top: 33px;
+        font-size: 16px;
+    }
+
+    .lp_main_header span {
+        font-size: 16px;
+    }
+
+    .lp_main_yazi {
+        font-size: 12px;
+    }
+
+    .lp_footer_dokuzyilda img {
+        width: 80px;
+    }
+
+    .lp_formyeri_logo {
+        display: none;
+    }
+
+    .lp_slogan_satir_1 {
+        margin-top: 50px;
+        line-height: 23px;
+        font-size: 20px;
+        t
+    }
+
+    .lpmain_header_dokuzuncuyil img {
+        width: 87px;
+    }
+
+    .lpmain_header_dokuzuncuyil {
+        position: absolute;
+        right: 0;
+        top: -33px;
+    }
+
+    button.lp_gonder {
+        font-size: 16px;
+        font-weight: 600;
+        background-color: transparent;
+        color: #fff;
+        border: 0;
+        cursor: pointer;
+        width: 100%;
+        text-align: center;
+        border: 1px solid #fff;
+        padding: 5px 0;
+    }
+
+    .address {
+        visibility: visible; 
+        color: #fff;
+        padding: 3rem;
+        display: block;
+        clear: both;
+        text-align: left;
+    }
+    .address strong {
+        padding-top: 10px;
+    }
+
+}

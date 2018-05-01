@@ -1,0 +1,751 @@
+@charset "utf-8";
+@media screen and (min-width:1368px) and (max-width:1770px){.layer_div{background-size:cover}
+.menu{width:19%}
+.acilirsayfabox{width:81%;left:19%}
+.projebox_left{left:19%;width:24%}
+.slider-prev{left:46%}
+.home .form{width:81%;left:19%}
+.intro_text{padding:0 19%;}
+.cubes_pages .form{left:19%;width:81%;}
+.form_acik1 .form--open{left:0 !important;width:100% !important;}
+.bilgiformu_box::after {
+	content: "";
+	width: 236px;
+	height: 318px;
+	background-image: url(../images/form_reklambanner.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+	top: 26%;
+	right: 3%;
+	background-size: contain;
+}
+}
+@media screen and (min-height:1040px) and (max-height:1500px){.home .form{left:22%;width:78%;}
+.menu {width: 22%;}
+.home_pin_1.home_pin{left:15%;top:23%;}
+.home_pin_5.home_pin{left:26%;top:40%;}
+.home_pin_6.home_pin{left:35%;top:50%;}
+}
+@media screen and (min-width:1368px) and (max-width:1500px){.home .form{left:22%;width:78%;}
+}
+@media screen and (min-width:1025px) and (max-width:1500px){.intro_text{font-size:14px;line-height:20px;padding:0 15%;}
+.menu{width:22%;}
+.cubes_plus_cocukoyunalani .col50.cubes_rows_9_right.rellax{padding-top:0%;}
+.cubes_daireplani_article h2{font-size:30px}
+.cubes_daireplani_skycube h1{font-size:30px}
+.projebox_left{left:22%;width:24%;}
+.acilirsayfabox{left:22%;width:78%;}
+.home_pin_8.home_pin{bottom:8%;left:44%;}
+.bilgiformu_box::after {
+	content: "";
+	width: 236px;
+	height: 318px;
+	background-image: url(../images/form_reklambanner.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+	top: 26%;
+	right: 3%;
+	background-size: contain;
+}
+.form_acik .bilgiformu_box::after {
+	right: 4%;
+}
+}
+@media screen and (min-width:0px) and (max-width:1320px){.intro_text_baslik{font-size:25px;}
+.intro_text_baslik > span{font-size:24px;letter-spacing:10.3px;}
+.intro_link > a{font-size:17.5px;}
+.intro_footer_center_bilgiformulink a{font-size:11px;}
+.intro_footer_left a{font-size:11px;}
+.intro_logo > img{width:265px;}
+.cubes_daireplani_3 h2{font-size:20px !important;}
+.form_acik1 .form--open{left:0 !important;width:100% !important;}
+}
+@media screen and (min-width:1025px) and (max-width:1367px){.cubes_pages .form{left:23%;width:77%;}
+.intro_text{font-size:14px;line-height:20px;padding:0 15%;}
+.menu{width:23%}
+.home_site_buton_open{top:40px}
+.home_sitebuton{top:40px}
+.menu__inner{top:126px}
+.menu__inner>li>a{padding:3px 0}
+.acilirsayfabox{left:23%;width:77%}
+.projebox_left{left:23%;width:28%}
+.slider-prev{left:54%}
+.projebox_box_close{margin-top:20px}
+.projebox_aciklama{margin-top:14px}
+.home .form{left:23%;width:77%}
+.cubes_rows_article{font-size:16px}
+.cubes_rows_3_right{padding-top:9%}
+.cubes_pages .home_sitebuton{width:23%;}
+.cubes_rows_7_right{padding:8% 14% 0 11%;position:relative}
+.cubes_plus_tiyatro .cubes_rows_3_right{padding-top:5%}
+.cubes_plus_infinity .col50.cubes_rows_5_right.rellax{padding-top:3%}
+.cubes_plus_sehirparki .cubes_rows_6_left{padding-right:5%;padding-top:5%}
+.cubes_plus_cocukoyunalani .col50.cubes_rows_9_right.rellax{padding-left:11%;padding-right:13%;padding-top:3%;position:relative}
+.cubes_daireplani_article h2{font-size:30px}
+.cubes_daireplani_skycube h1{font-size:30px}
+.bf_gonder_sag h3{font-size:20px;}
+.bf_gonder_sag h1{font-size:30px;}
+.iletisim_box_header_logo > img{width:177px;margin-top:20px;}
+.iletisim_box_maps{top:56%;height:44%;}
+.iletisim_box_header{height:56%;}
+.form_acik1 .form--open{left:0 !important;width:100% !important;}
+}
+@media screen and (min-width:1024px) and (max-width:1066px){.intro_text{padding:0 15%}
+.intro_footer_right.firmalar_logolar{position:absolute;right:3px;top:5px}
+.intro_pattern{background-size:1100px}
+.intro_bg_box{display:none}
+.layer_div{background-size:cover}
+.menu{width:27%}
+.home_site_buton_open{top:40px}
+.home_sitebuton{top:40px}
+.menu__inner{top:126px;left:41px}
+.menu__inner>li>a{padding:3px 0}
+.acilirsayfabox{left:0;width:100%;z-index:103}
+.projebox_left{left:0;width:35%}
+.slider-prev{left:39%}
+.projebox_box_close{margin-top:20px}
+.projebox_aciklama{margin-top:14px}
+.home .form{left:0;width:100%;z-index:103}
+.proje_box{z-index:103}
+.cubes_rows_article_first{height:200px;font-size:16px}
+.cubes_rows_article{font-size:16px}
+.cubes_rows_1_article{padding-top:12%}
+.cubes_rows_3_right{font-size:18px;padding-left:5%;padding-right:14%;padding-top:0}
+.cubes_rows_6_left{padding-left:15%;padding-right:13%;padding-top:2%}
+.cubes_rows_7_right{padding:6% 10% 0 11%;position:relative}
+.col50.cubes_rows_10_left.rellax{padding-left:15%;padding-right:9%;padding-top:2%}
+.cubes_daireplani_article h2{font-size:30px}
+.cubes_daireplani_skycube h1{font-size:30px}
+.cubes_daireplani_3 .col50{width:100%}
+.cubes_daireplani_7 .col50.cubes_daireplani_skycube_1_article.rellax{padding-right:11%;padding-top:7%}
+.bf_gonder_sag h3{font-size:20px;}
+.bf_gonder_sag h1{font-size:30px;}
+.bf_form{float:left;padding:2% 2% 0;width:100%;}
+.bf_gonder_alan{float:left;padding:27% 20% 0;position:relative;text-align:center;width:100%;}
+}
+@media screen and (min-width:1024px) and (max-width:1350px){.projeselected .slider-prev{left:39%;}
+.slider-prev{left:3%;}
+.projesliderselected .proje_box{z-index:102;}
+.intro_footer_center{border-top:1px solid #fff;bottom:auto;float:left;left:auto;padding:20px 30px 0;position:relative;-webkit-transform:translate(0px,0px);-moz-transform:translate(0px,0px);-ms-transform:translate(0px,0px);-o-transform:translate(0px,0px);transform:translate(0px,0px);width:100%;text-align:center}
+.intro_footer_right.firmalar_logolar{margin-top:14px;float:right;position:relative;right:auto;top:auto}
+.intro_footer_center_sosyal{display:inline-block;float:none}
+.intro_footer_center_bilgiformulink{display:inline-block;float:none}
+.intro_footer_center_tel{display:inline-block;float:none}
+.intro_footer_left{margin-top:2px}
+.home_parallax_box{bottom:0;left:0;overflow-x:scroll;position:absolute;right:0;top:0;width:100%;}
+.home_parallax{width:1550px;}
+.layer{width:1650px;}
+.scene2{width:1273px;}
+.home_parallax_pinler{width:1550px;}
+
+.bilgiformu_box::after {
+	content: "";
+	width: 236px;
+	height: 318px;
+	background-image: url(../images/form_reklambanner.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+	top: 26%;
+	right: 3%;
+	background-size: contain;
+}
+
+
+
+
+
+
+
+}
+@media screen and (min-width:768px) and (max-width:1023px){.projesliderselected .proje_box{z-index:102;}
+.intro_text{padding:0 15%}
+.intro_footer_center{border-top:1px solid #fff;bottom:auto;float:left;left:auto;padding:20px 30px 0;position:relative;-webkit-transform:translate(0px,0px);-moz-transform:translate(0px,0px);-ms-transform:translate(0px,0px);-o-transform:translate(0px,0px);transform:translate(0px,0px);width:100%;text-align:center}
+.intro_footer_right.firmalar_logolar{margin-top:14px;float:right;position:relative;right:auto;top:auto}
+.intro_footer_center_sosyal{display:inline-block;float:none}
+.intro_footer_center_bilgiformulink{display:inline-block;float:none}
+.intro_footer_center_tel{display:inline-block;float:none}
+.intro_footer_left{margin-top:2px}
+.intro_pattern{background-size:1100px}
+.intro_bg_box{display:none}
+.layer_div{background-size:cover}
+.menu{width:38%}
+.home_site_buton_open{top:40px}
+.home_sitebuton{top:40px}
+.menu__inner{top:126px;left:41px}
+.menu__inner>li>a{padding:3px 0}
+.acilirsayfabox{left:0;width:100%;z-index:103}
+.kurumsalicerik_box_ndl{padding:29px 0}
+.slider-prev{left:8% !important;}
+.projebox_box_close{margin-top:20px}
+.projebox_aciklama{margin-top:14px}
+.home .form{left:0;width:100%;z-index:103}
+.proje_box{z-index:103}
+.projebox_slider{width:100%;height:60%;top:auto}
+.cubes_rows_3{padding:6% 0}
+.cubes_rows_2_pattern{z-index:-1}
+.cubes_rows_3_right{padding-top:0}
+.cubes_rows_3_icon{left:5%;bottom:31%}
+.cubes_rows_4_left{padding-top:0}
+.cubes_rows_4_right{position:relative}
+.cubes_rows_4_pattern{left:0;position:absolute;top:-56%}
+.cubes_rows_5_img_2{padding-top:30%}
+.cubes_rows_7_right{padding:10% 18% 10% 11%;position:relative}
+.cubes_rows_6_img_2{float:left;margin-top:28%;width:53%}
+.icerik_footer_center{float:left;left:auto;position:relative;text-align:center;top:auto;-webkit-transform:translate(0px,0px);-moz-transform:translate(0px,0px);-ms-transform:translate(0px,0px);-o-transform:translate(0px,0px);transform:translate(0px,0px);width:100%}
+.icerik_footer_left{float:left;margin-top:10px;text-align:center;width:100%}
+.icerik_footer_right.firmalar_logolar{float:right;margin-top:11px;text-align:center;width:100%}
+.icerik_footer_center_bilgiformulink{display:inline-block;float:none;margin-top:4px;vertical-align:middle}
+.icerik_footer_center_tel{display:inline-block;float:none;font-size:18px;margin-left:26px;margin-top:5px}
+.icerik_footer_center_sosyal{display:inline-block;float:none;margin-right:26px;margin-top:7px}
+.firmalar_logolar a{display:inline-block;float:none;height:22px;margin:0 10px;vertical-align:middle;}
+.cubes_pages .home_sitebuton{width:38%}
+.cubes_daireplani_article h2{font-size:30px}
+.cubes_daireplani_skycube h1{font-size:30px}
+.cubes_daireplani_3 .col50{width:100%}
+.cubes_daireplani_7 .col50.cubes_daireplani_skycube_1_article.rellax{padding-right:11%;padding-top:7%}
+.cubes_rows.cubes_rows_1.cubes_daireplani_7{padding-bottom:23%}
+.rellax{-webkit-transform:none !important;-moz-transform:none !important;-ms-transform:none !important;-o-transform:none !important;transform:none !important;}
+.cubes_rows_2_pattern{z-index:-1;}
+.cubes_rows_2_left{padding-left:5%;}
+.cubes_rows_1_article{padding-left:5%;}
+.cubes_rows_4_left{padding-left:5%;padding-top:21%;}
+.cubes_ofis_guvenlik{margin-top:21%;}
+.cubes_rows_4_img1{width:100%;}
+.cubes_rows_4_img2{float:right;margin-top:-8%;position:relative;width:58%;z-index:3;}
+.cubes_rows_6_left{padding-left:5%;}
+.cubes_rows_5_right{padding-left:5%;}
+body{overflow:scroll !important;}
+.bf_gonder_sag h3{font-size:20px;}
+.bf_gonder_sag h1{font-size:30px;}
+.bf_gonder_sol{height:40%;}
+.bilgiformu_uyariyazi{padding-bottom:50px;}
+.bf_form{float:left;padding:2% 2% 0;width:100%;}
+.cubes_pages .form{left:0;width:100%;}
+.bf_gonder_alan{float:left;padding:27% 20% 0;position:relative;text-align:center;width:100%;}
+.proje_box{-webkit-transform:translate(0px, 100%) !important;-moz-transform:translate(0px, 100%) !important;-ms-transform:translate(0px, 100%) !important;-o-transform:translate(0px, 100%) !important;transform:translate(0px, 100%) !important;}
+.projesliderselected.projeselected .proje_box{height:100vh;opacity:1;-webkit-transform:translate(0px, 0px) !important;-moz-transform:translate(0px, 0px) !important;-ms-transform:translate(0px, 0px) !important;-o-transform:translate(0px, 0px) !important;transform:translate(0px, 0px) !important;z-index:102;}
+.projebox_slider_box_close{display:none;}
+.iletisim_box_header_logo > img{width:177px;margin-top:20px;}
+.home_pin_9.home_pin{left:32%;top:14%;}
+.home_pin_5.home_pin{left:18%;top:40%;}
+.home_pin_6.home_pin{left:29%;top:50%;}
+.home_pin_2{bottom:14%;left:69%;}
+.home_pin_7.home_pin{bottom:6%;left:69%;}
+.home_pin_8.home_pin{bottom:8%;left:43%;}
+.home_pin_3 .home_pin_hover{left:auto;right:49px;}
+.home_pin_3 .home_pin_hover::after{left:auto;right:100%;}
+.home_pin_4 .home_pin_hover{left:auto;right:49px;}
+.home_pin_4 .home_pin_hover::after{left:auto;right:100%;}
+.home_pin_10 .home_pin_hover{left:auto;right:49px;}
+.home_pin_10 .home_pin_hover::after{left:auto;right:100%;}
+.home_parallax_box{bottom:0;left:0;overflow-x:scroll;position:absolute;right:0;top:0;width:100%;}
+.home_parallax{width:1360px;}
+.layer{width:1481px;}
+.scene2{width:1273px;}
+.home_parallax_pinler{width:1360px;}
+
+.bilgiformu_box::after {
+	width: 142px;
+	height: 150px;
+	top: 207px;
+	right: 0;
+	background-size: contain;
+	left: 0;
+	margin: auto;
+}
+.bf_ustaltyazi.form__section {padding-bottom: 124px; }
+
+
+
+
+
+
+}
+@media screen and (min-width:321px) and (max-width:767px){.formpopup_close {right: 13%; }.intro_box{margin-top:29%;}
+.projesliderselected .proje_box{z-index:102;}
+.intro_text{font-size:16px;height:183px;line-height:22px;padding:0 8%;margin-top:18%;}
+.intro_text_baslik>span{font-size:21px;letter-spacing:10px}
+.intro_text_baslik{font-size:21px;line-height:30px}
+.intro_footer_center{border-top:1px solid #fff;bottom:auto;float:left;left:auto;padding:20px 30px 0;position:relative;-webkit-transform:translate(0px,0px);-moz-transform:translate(0px,0px);-ms-transform:translate(0px,0px);-o-transform:translate(0px,0px);transform:translate(0px,0px);width:100%;text-align:center}
+.intro_footer_right.firmalar_logolar{width:100%;margin-top:14px;float:right;position:relative;right:auto;top:auto}
+.intro_footer_center_sosyal{display:inline-block;float:none;width:100%}
+.intro_footer_center_bilgiformulink{display:inline-block;float:none;margin:16px 0;width:100%}
+.intro_footer_center_tel{display:inline-block;float:none}
+.intro_footer_left{margin-top:29px;text-align:center;width:100%}
+.footer_butonyer{display:block;bottom:-18px;}
+.intro_bg_box{display:none}
+.intro_pattern{background-size:1100px}
+.intro_footer_box{opacity:0;position:absolute;-webkit-transform:translate(0px,114%);-moz-transform:translate(0px,114%);-ms-transform:translate(0px,114%);-o-transform:translate(0px,114%);transform:translate(0px,114%);visibility:hidden;-webkit-transition:all .5s ease-in-out;-moz-transition:all .5s ease-in-out;-o-transition:all .5s ease-in-out;-ms-transition:all .5s ease-in-out;transition:all .5s ease-in-out}
+.footermenu .intro_footer_box{-webkit-transition:all .5s ease-in-out;-moz-transition:all .5s ease-in-out;-o-transition:all .5s ease-in-out;-ms-transition:all .5s ease-in-out;transition:all .5s ease-in-out;background-color:rgba(16,16,16,0.93);bottom:89px;left:0;opacity:1;padding-bottom:242px;right:0;-webkit-transform:translate(0px,50%);-moz-transform:translate(0px,50%);-ms-transform:translate(0px,50%);-o-transform:translate(0px,50%);transform:translate(0px,50%);visibility:visible}
+.nuhoglulogo{position:relative;width:75px}
+.dalgiclogo{position:relative;width:75px}
+.lejantlogo{width:77px}
+.firmalar_logolar a{display:inline-block;float:none}
+.intro_footer_right.firmalar_logolar{margin-top:40px;text-align:center;width:100%}
+.layer_div{background-size:cover}
+.layer{width:1281px}
+.menu{width:86%}
+.home_site_buton_open{top:40px}
+.home_sitebuton{top:40px}
+.menu__inner{top:116px;left:41px}
+.menu__inner>li>a{padding:1px 0}
+.acilirsayfabox{left:0;width:100%;z-index:103}
+.projebox_left{left:0;width:100%;height:50% !important}
+.slider-prev{left:2% !important;top:40%}
+.projebox_box_close{color:#3f3f3f;cursor:pointer;float:right;font-size:35px;font-weight:200;margin-right:28px;margin-top:20px}
+.projebox_aciklama{margin-top:0}
+.home .form{left:0;width:100%;z-index:103}
+.projesliderselected .proje_box{z-index:103}
+.projebox_slider{width:100%;height:50%;top:auto}
+.home_acilirmenu_footer_sosyal{margin:2px 0}
+.home_acilirmenu_footer_telefon{margin:0}
+.slider-next{right:2%;top:40%}
+.form__section{margin-top:8px;}
+.form_icbox h3{font-size:27px}
+.cubes_ofis_article_img_1{float:left;width:100%}
+.cubes_ofis_article_icon{left:14%;position:absolute;top:59%;z-index:3}
+.cubes_rows_3_icon{bottom:0;left:70%;position:absolute}
+.cubes_ofis_article_img_2{float:left;padding-left:43%;width:100%}
+.cubes_rows.cubes_rows_7.cubes_ofis_kathizmetleri{margin-top:20%}
+.cubes_rows_7_right{padding:10% 18% 10% 11%;position:relative}
+.icerik_footer{background-color:#c6784b;float:left;padding:5px 20px;position:relative;width:100%}
+.icerik_footer_center{float:left;left:auto;position:relative;text-align:center;top:auto;-webkit-transform:translate(0px,0px);-moz-transform:translate(0px,0px);-ms-transform:translate(0px,0px);-o-transform:translate(0px,0px);transform:translate(0px,0px);width:100%}
+.icerik_footer_left{float:left;margin-top:10px;text-align:center;width:100%}
+.icerik_footer_right.firmalar_logolar{float:right;margin-top:11px;text-align:center;width:100%}
+.icerik_footer_center_bilgiformulink{display:inline-block;float:none;margin-top:4px;vertical-align:middle}
+.icerik_footer_center_tel{display:inline-block;float:none;font-size:18px;margin-left:20px;margin-right:20px;margin-top:5px}
+.icerik_footer_center_sosyal{display:inline-block;float:none;margin-left:6px;margin-right:0;margin-top:7px;padding:10px 0}
+.firmalar_logolar a{display:inline-block;float:none;height:22px;margin:0 10px;vertical-align:middle;}
+.cubes_pages .home_sitebuton{width:86%}
+.icerik_footer_right a::after{background-color:transparent}
+.thumbsfull li{width:47%}
+.cubes_rows_3_left{padding-right:0}
+.cubes_daireplani_article h2{font-size:30px}
+.cubes_daireplani_skycube h1{font-size:30px}
+.cubes_daireplani_3 .col50{width:100%}
+.cubes_daireplani_7 .col50.cubes_daireplani_skycube_1_article.rellax{padding-right:11%;padding-top:7%}
+.cubes_rows.cubes_rows_1.cubes_daireplani_7{padding-bottom:23%}
+.cubes_daireplani_3_left_img{float:left;width:100%}
+.cubes_daireplani_3_left_title{float:left;padding-left:6%;padding-right:5%;padding-top:16%;width:100%}
+.cubes_daireplani_3_left_cube{bottom:0;position:absolute;right:3%}
+.cubes_daireplani_3_right_img{float:left;width:100%}
+.cubes_daireplani_3_right_title{float:left;padding-left:10%;padding-right:5%;padding-top:16%;width:100%}
+.cube_rows_6_cube.relax{bottom:2%;left:-16%;position:absolute}
+.cubes_daireplani_7_icon.rellax{bottom:1%;position:absolute;right:-1%}
+.cubes_plus_rows_1_article{padding-top:0;margin-top:11%;padding-left:5%;}
+.col50.cubes_rows_10_left.rellax{padding-top:33%;padding-left:5%;}
+.cubes_rows_4_right{margin-top:28%;position:relative;}
+.cubes_rows_article_first{font-size:16px;}
+.cubes_rows.cubes_rows_5.cubes_plus_infinity{margin-top:30%;}
+.cubes_pages .menu{height:100%;}
+.cubes_rows.cubes_rows_7.cubes_plus_spamasaj{margin-top:16%;}
+.cubes_rows.cubes_rows_9.cubes_plus_cocukoyunalani{margin-top:20%;}
+.cubes_plus_cocukoyunalani .col50.cubes_rows_9_right.rellax{padding-left:5%;}
+.rellax{transform:none !important;}
+.cubes_plus_otel_left{padding-left:5%;}
+.cubes_rows_2_pattern{z-index:-1;}
+.cubes_rows_2_left{padding-bottom:0;padding-left:5%;}
+.cubes_rows_1_article{padding-left:5%;}
+.cubes_rows_4_left{padding-left:5%;padding-top:21%;}
+.cubes_ofis_guvenlik{margin-top:21%;}
+.cubes_rows_4_img1{width:100%;}
+.cubes_rows_4_img2{float:right;margin-top:-8%;position:relative;width:58%;z-index:3;}
+.cubes_rows_6_left{padding-left:5%;}
+.cubes_rows_5_right{padding-left:5%;}
+body{overflow:scroll !important;}
+.cubes_daireplani_skycube_1_article{padding-left:5%;}
+.cubes_daireplani_3_right_cube{position:absolute;right:58%;top:48%;}
+.cubes_daireplani_3_right_title{padding-left:5%;}
+.cubes_daireplani_5_icon.rellax{border:0 none;position:absolute;right:52%;top:-64%;}
+.bf_gonder_sag h3{font-size:20px;}
+.bf_gonder_sag h1{font-size:30px;}
+.bf_gonder_sol{height:40%;}
+.form__input{font-size:1.5em;padding:0;}
+.form__select{font-size:16px;padding:5px 0;}
+.bilgiformu_uyariyazi{padding-bottom:50px;}
+.bf_form{float:left;padding:2% 2% 0;width:100%;}
+.cubes_pages .form{left:0;width:100%;}
+.bf_form_satir_buton.form__section{padding:0 5%;width:100%;}
+.bf_form_satir_sag{float:left;padding:3px 5%;width:100%;}
+.bf_form_satir_sol{float:left;margin-top:0;padding-left:5%;padding-right:4%;text-align:left;width:100%;position:relative;right:auto;}
+.form__section{margin-top:0;}
+.bf_form_satir_telefon.form__section{text-align:center;}
+.bf_form_satir_telefon.form__section > a{float:none;margin-right:0;}
+.bf_gonder_alan{float:left;padding:41% 16% 0;position:relative;text-align:center;width:100%;}
+.bf_gonder_yer{background-image:url("../images/bf_gonder_background.jpg");background-position:center bottom;background-repeat:no-repeat;background-size:100% auto;min-height:500px;}
+.proje_box{-webkit-transform:translate(0px, 100%) !important;-moz-transform:translate(0px, 100%) !important;-ms-transform:translate(0px, 100%) !important;-o-transform:translate(0px, 100%) !important;transform:translate(0px, 100%) !important;}
+.projesliderselected.projeselected .proje_box{height:100vh;opacity:1;-webkit-transform:translate(0px, 0px) !important;-moz-transform:translate(0px, 0px) !important;-ms-transform:translate(0px, 0px) !important;-o-transform:translate(0px, 0px) !important;transform:translate(0px, 0px) !important;z-index:102;}
+.projebox_slider_box_close{display:none;}
+.iletisim_box_header_logo > img{width:177px;margin-top:20px;}
+.home_pin_9.home_pin{left:32%;top:14%;}
+.home_parallax_box{bottom:0;left:0;overflow-x:scroll;position:absolute;right:0;top:0;width:100%}
+.home_parallax{width:1200px}
+.scene2{width:1130px;}
+.home_parallax_pinler{width:1200px;}
+.home_pin_3 .home_pin_hover{left:auto;right:49px;}
+.home_pin_3 .home_pin_hover::after{left:auto;right:100%;}
+.home_pin_4 .home_pin_hover{left:auto;right:49px;}
+.home_pin_4 .home_pin_hover::after{left:auto;right:100%;}
+.home_pin_10 .home_pin_hover{left:auto;right:49px;}
+.home_pin_10 .home_pin_hover::after{left:auto;right:100%;}
+.home_pin_8 .home_pin_hover{left:auto;right:49px;}
+.home_pin_8 .home_pin_hover::after{left:auto;right:100%;}
+.home_pin_2{bottom:18%;left:71%;}
+.home_pin_5.home_pin{left:27%;top:40%;}
+.bf_form_satir_uyari.form__section{padding:0 11% 50px;}
+.kurumsalicerik_box_logolar{padding-bottom:50px;}
+.kurumsalicerik_box_logolar .nuhoglulogo::after{height:17px;}
+.kurumsalicerik_box_logolar .dalgiclogo::after{height:17px;}
+.form__close{right:8%;}
+.cubes_daireplani_skycube_img_1.rellax{padding-top:0;}
+.bf_logo.form__section > img{width:44%;}
+.iletisim_box_close{margin-top:25px;}
+
+
+.bilgiformu_box::after {
+	width: 142px;
+	height: 150px;
+	top: 144px;
+	right: 0;
+	background-size: contain;
+	left: 0;
+	margin: auto;
+}
+
+.bf_ustaltyazi.form__section {padding-bottom: 124px;}
+
+
+.iletisim_sagbuton {
+	display: none;
+}
+
+.bilgiformupopup { display: inline }
+
+.bf_ustaltyazi.form__section {font-size: 17px;}
+
+
+
+}
+@media screen and (min-height:0px) and (max-height:500px){.projesliderselected .proje_box{z-index:102;}
+.intro_text{height:auto;padding:0 8%;line-height:22px;font-size:16px}
+.intro_box{height:363px;overflow-y:scroll;}
+.intro_footer{bottom:auto;float:left;left:auto;opacity:0;padding:0 45px;position:relative;right:auto;transition:all 1s ease-in-out 0s;width:100%;}
+.intro_footer_center{border-top:1px solid #fff;bottom:auto;float:left;left:auto;padding:20px 30px 0;position:relative;-webkit-transform:translate(0px,0px);-moz-transform:translate(0px,0px);-ms-transform:translate(0px,0px);-o-transform:translate(0px,0px);transform:translate(0px,0px);width:100%;text-align:center}
+.intro_footer_right.firmalar_logolar{margin-top:14px;float:right;position:relative;right:auto;top:auto}
+.intro_footer_center_sosyal{display:inline-block;float:none}
+.intro_footer_center_bilgiformulink{display:inline-block;float:none;margin:16px 30px}
+.intro_footer_center_tel{display:inline-block;float:none}
+.intro_footer_left{margin-top:29px;text-align:center;width:100%}
+.footer_butonyer{display:block;bottom:27px;}
+.intro_bg_box{display:none}
+.intro_pattern{background-size:1100px}
+.intro_footer_box{opacity:0;position:absolute;-webkit-transform:translate(0px,114%);-moz-transform:translate(0px,114%);-ms-transform:translate(0px,114%);-o-transform:translate(0px,114%);transform:translate(0px,114%);visibility:hidden;-webkit-transition:all .5s ease-in-out;-moz-transition:all .5s ease-in-out;-o-transition:all .5s ease-in-out;-ms-transition:all .5s ease-in-out;transition:all .5s ease-in-out}
+.footermenu .intro_footer_box{-webkit-transition:all .5s ease-in-out;-moz-transition:all .5s ease-in-out;-o-transition:all .5s ease-in-out;-ms-transition:all .5s ease-in-out;transition:all .5s ease-in-out;background-color:rgba(16,16,16,0.93);bottom:89px;left:0;opacity:1;padding-bottom:242px;right:0;-webkit-transform:translate(0px,50%);-moz-transform:translate(0px,50%);-ms-transform:translate(0px,50%);-o-transform:translate(0px,50%);transform:translate(0px,50%);visibility:visible}
+.nuhoglulogo{position:relative;width:75px}
+.dalgiclogo{position:relative;width:75px}
+.lejantlogo{width:77px}
+.firmalar_logolar a{display:inline-block;float:none}
+.intro_footer_right.firmalar_logolar{text-align:center;width:100%}
+.layer_div{background-size:cover}
+.layer{width:875px}
+.menu{width:86%;overflow-y:scroll}
+.home_site_buton_open{top:40px}
+.home_sitebuton{top:40px}
+.menu__inner{left:41px;top:133px;width:41%;height:187px;}
+.home_acilirmenu_footer{bottom:auto;left:auto;position:absolute;right:0;text-align:center;top:50%;-webkit-transform:translate(0px,-50%);-moz-transform:translate(0px,-50%);-ms-transform:translate(0px,-50%);-o-transform:translate(0px,-50%);transform:translate(0px,-50%);width:50%}
+.menu__inner>li>a{padding:1px 0}
+.acilirsayfabox{left:0;width:100%;z-index:103}
+.kurumsalicerik_box{max-width:800px;margin-top:116px}
+.kurumsalicerik_box_ndl{padding:29px 0}
+.projebox_left{left:0;width:100%;height:50% !important}
+.slider-prev{left:2% !important;top:40%}
+.projebox_box_close{margin-top:20px}
+.projebox_aciklama{margin-top:14px}
+.home .form{left:0;width:100%;z-index:103}
+.proje_box{z-index:103}
+.projebox_slider{width:100%;height:50%;top:auto}
+.home_acilirmenu_footer_sosyal{margin:2px 0}
+.home_acilirmenu_footer_telefon{margin:0}
+.slider-next{right:2%;top:40%}
+.form__section{margin-top:21px}
+.form_icbox h3{font-size:27px}
+.home_parallax_box{bottom:0;left:0;overflow-x:scroll;position:absolute;right:0;top:0;width:100%}
+.home_parallax{width:770px}
+.cubes_pages .home_sitebuton{width:86%}
+.thumbsfull li{width:31%}
+.icerik_footer{background-color:#c6784b;float:left;padding:5px 20px;position:relative;width:100%;margin-top:0}
+.icerik_footer_center{float:left;left:auto;position:relative;text-align:center;top:auto;-webkit-transform:translate(0px,0px);-moz-transform:translate(0px,0px);-ms-transform:translate(0px,0px);-o-transform:translate(0px,0px);transform:translate(0px,0px);width:100%}
+.icerik_footer_left{float:left;margin-top:10px;text-align:center;width:100%}
+.icerik_footer_right.firmalar_logolar{float:right;margin-top:11px;text-align:center;width:100%}
+.icerik_footer_center_bilgiformulink{display:inline-block;float:none;margin-top:4px;vertical-align:middle}
+.icerik_footer_center_tel{display:inline-block;float:none;font-size:18px;margin-left:20px;margin-right:20px;margin-top:5px}
+.icerik_footer_center_sosyal{display:inline-block;float:none;margin-left:6px;margin-right:0;margin-top:7px;padding:10px 0}
+.firmalar_logolar a{display:inline-block;float:none;height:22px;margin:0 10px;vertical-align:middle;}
+.kurumsalicerik_box_logolar .nuhoglulogo::after{height:32px;}
+.kurumsalicerik_box_logolar .dalgiclogo::after{height:32px;}
+.cubes_pages .home_sitebuton{width:86%}
+.icerik_footer_right a::after{background-color:transparent}
+.cubes_pages .menu{height:100%}
+.iletisim_box_maps{float:left;height:100%;position:absolute;right:0;top:0;width:50%}
+.iletisim_box_header{float:left;height:100%;padding-left:5%;padding-right:5%;padding-top:7%;text-align:center;width:50%}
+.iletisim_box_close{color:#3f3f3f;cursor:pointer;float:right;font-size:50px;font-weight:200;left:23px;margin-right:30px;margin-top:56px;position:absolute;top:-37px;z-index:999}
+.cubes_rows_7_right{padding:10% 18% 10% 11%;position:relative}
+.cubes_rows_3_left{padding-right:0}
+.cubes_daireplani_article h2{font-size:30px}
+.cubes_daireplani_skycube h1{font-size:30px}
+.cubes_daireplani_3 .col50{width:100%}
+.cubes_daireplani_7 .col50.cubes_daireplani_skycube_1_article.rellax{padding-right:11%;padding-top:7%}
+.cubes_rows.cubes_rows_1.cubes_daireplani_7{padding-bottom:23%}
+.cubes_daireplani_3_left_img{float:left;width:100%}
+.cubes_daireplani_3_left_title{float:left;padding-left:6%;padding-right:5%;padding-top:16%;width:100%}
+.cubes_daireplani_3_left_cube{bottom:0;position:absolute;right:3%}
+.cubes_daireplani_3_right_img{float:left;width:100%}
+.cubes_daireplani_3_right_title{float:left;padding-left:10%;padding-right:5%;padding-top:16%;width:100%}
+.cube_rows_6_cube.relax{bottom:2%;left:-16%;position:absolute}
+.cubes_daireplani_7_icon.rellax{bottom:1%;position:absolute;right:-1%}
+.rellax{-webkit-transform:none !important;-moz-transform:none !important;-ms-transform:none !important;-o-transform:none !important;transform:none !important;}
+.cubes_rows_2_pattern{z-index:-1;}
+.cubes_rows_2_left{padding-bottom:0;padding-left:5%;}
+.cubes_rows_1_article{padding-left:5%;}
+.cubes_rows_4_left{padding-left:5%;padding-top:21%;}
+.cubes_ofis_guvenlik{margin-top:21%;}
+.cubes_rows_4_img1{width:100%;}
+.cubes_rows_4_img2{float:right;margin-top:-8%;position:relative;width:58%;z-index:3;}
+.cubes_rows_6_left{padding-left:5%;}
+.cubes_rows_5_right{padding-left:5%;}
+body{overflow:scroll !important;}
+.cubes_daireplani_skycube_1_article{padding-left:5%;}
+.cubes_daireplani_3_right_cube{position:absolute;right:58%;top:48%;}
+.cubes_daireplani_3_right_title{padding-left:5%;}
+.cubes_daireplani_5_icon.rellax{border:0 none;position:absolute;right:52%;top:-64%;}
+.bf_gonder_sag h3{font-size:20px;}
+.bf_gonder_sag h1{font-size:30px;}
+.bf_gonder_sol{height:40%;}
+.bilgiformu_uyariyazi{padding-bottom:50px;}
+.bf_form{float:left;padding:2% 2% 0;width:100%;}
+.cubes_pages .form{left:0;width:100%;}
+.bf_form_satir_buton.form__section{padding:0 5%;width:100%;}
+.bf_form_satir_sag{float:left;padding:3px 5%;width:100%;}
+.bf_form_satir_sol{float:left;margin-top:0;padding-left:5%;padding-right:4%;text-align:left;width:100%;}
+.form__section{margin-top:0;}
+.bf_form_satir_telefon.form__section{text-align:center;}
+.bf_form_satir_telefon.form__section > a{float:none;margin-right:0;}
+.bf_gonder_alan{float:left;padding:41% 16% 0;position:relative;text-align:center;width:100%;}
+.bf_gonder_yer{background-image:url("../images/bf_gonder_background.jpg");background-position:center bottom;background-repeat:no-repeat;background-size:100% auto;min-height:500px;}
+.proje_box{-webkit-transform:translate(0px, 100%) !important;-moz-transform:translate(0px, 100%) !important;-ms-transform:translate(0px, 100%) !important;-o-transform:translate(0px, 100%) !important;transform:translate(0px, 100%) !important;}
+.projesliderselected.projeselected .proje_box{height:100vh;opacity:1;-webkit-transform:translate(0px, 0px) !important;-moz-transform:translate(0px, 0px) !important;-ms-transform:translate(0px, 0px) !important;-o-transform:translate(0px, 0px) !important;transform:translate(0px, 0px) !important;z-index:102;}
+.projebox_slider_box_close{display:none;}
+.intro_box{margin-top:7%;}
+.intro_text{margin-top:4%;}
+.intro_link{margin-top:2%;}
+.iletisim_box_header_logo > img{width:177px;margin-top:20px;}
+.home_pin_4.home_pin{left:80%;top:52%;}
+.home_parallax_box{bottom:0;left:0;overflow-x:scroll;position:absolute;right:0;top:0;width:100%}
+.home_parallax{width:766px}
+.scene2{width:1130px;}
+.home_parallax_pinler{width:766px;}
+.home_pin_3 .home_pin_hover{left:auto;right:49px;}
+.home_pin_3 .home_pin_hover::after{left:auto;right:100%;}
+.home_pin_4 .home_pin_hover{left:auto;right:49px;}
+.home_pin_4 .home_pin_hover::after{left:auto;right:100%;}
+.home_pin_10 .home_pin_hover{left:auto;right:49px;}
+.home_pin_10 .home_pin_hover::after{left:auto;right:100%;}
+.home_pin_8 .home_pin_hover{left:auto;right:49px;}
+.home_pin_8 .home_pin_hover::after{left:auto;right:100%;}
+.home_pin_2{bottom:18%;left:71%;}
+.home_pin_5.home_pin{left:27%;top:40%;}
+
+
+
+
+
+
+
+}
+@media screen and (min-width:0px) and (max-width:320px){.formpopup_close {right: 13%; }.kurumsalicerik_box_logolar{padding-bottom:50px;}
+.kurumsalicerik_box_logolar .nuhoglulogo::after{height:19px;}
+.kurumsalicerik_box_logolar .dalgiclogo::after{height:19px;}
+.form__close{right:8%;}
+.intro_box{margin-top:29%;}
+.intro_text{height:159px;padding:0 8%;line-height:22px;font-size:16px}
+.intro_footer_center{border-top:1px solid #fff;bottom:auto;float:left;left:auto;padding:20px 30px 0;position:relative;-webkit-transform:translate(0px,0px);-moz-transform:translate(0px,0px);-ms-transform:translate(0px,0px);-o-transform:translate(0px,0px);transform:translate(0px,0px);width:100%;text-align:center}
+.intro_footer_right.firmalar_logolar{margin-top:14px;float:right;position:relative;right:auto;top:auto}
+.intro_footer_center_sosyal{display:inline-block;float:none}
+.intro_footer_center_bilgiformulink{display:inline-block;float:none;margin:16px 30px}
+.intro_footer_center_tel{display:inline-block;float:none}
+.intro_footer_left{margin-top:29px;text-align:center;width:100%}
+.footer_butonyer{display:block}
+.intro_bg_box{display:none}
+.intro_pattern{background-size:1100px}
+.intro_footer_box{opacity:0;position:absolute;-webkit-transform:translate(0px,114%);-moz-transform:translate(0px,114%);-ms-transform:translate(0px,114%);-o-transform:translate(0px,114%);transform:translate(0px,114%);visibility:hidden;-webkit-transition:all .5s ease-in-out;-moz-transition:all .5s ease-in-out;-o-transition:all .5s ease-in-out;-ms-transition:all .5s ease-in-out;transition:all .5s ease-in-out}
+.footermenu .intro_footer_box{-webkit-transition:all .5s ease-in-out;-moz-transition:all .5s ease-in-out;-o-transition:all .5s ease-in-out;-ms-transition:all .5s ease-in-out;transition:all .5s ease-in-out;background-color:rgba(16,16,16,0.93);bottom:89px;left:0;opacity:1;padding-bottom:242px;right:0;-webkit-transform:translate(0px,50%);-moz-transform:translate(0px,50%);-ms-transform:translate(0px,50%);-o-transform:translate(0px,50%);transform:translate(0px,50%);visibility:visible}
+.nuhoglulogo{position:relative;width:75px}
+.dalgiclogo{position:relative;width:75px}
+.lejantlogo{width:77px}
+.firmalar_logolar a{display:inline-block;float:none}
+.intro_footer_right.firmalar_logolar{text-align:center;width:100%}
+.layer_div{background-size:cover}
+.layer{width:1277px}
+.menu{width:86%}
+.home_site_buton_open{top:40px}
+.home_sitebuton{top:40px}
+.menu__inner{top:116px;left:41px;height:157px;}
+.cubes_pages .menu__inner{height:100%;}
+.menu__inner>li>a{padding:1px 0}
+.acilirsayfabox{left:0;width:100%;z-index:103}
+.kurumsalicerik_box{max-width:800px;margin-top:116px}
+.kurumsalicerik_box_ndl{padding:29px 0}
+.projebox_left{left:0;width:100%;height:50% !important}
+.slider-prev{left:2%;top:40%}
+.projebox_box_close{margin-top:20px}
+.projebox_aciklama{margin-top:14px}
+.home .form{left:0;width:100%;z-index:103}
+.proje_box{z-index:103}
+.projebox_slider{width:100%;height:50%;top:auto}
+.home_acilirmenu_footer_sosyal{margin:2px 0}
+.home_acilirmenu_footer_telefon{margin:0}
+.slider-next{right:2%;top:40%}
+.form__section{margin-top:21px}
+.form_icbox h3{font-size:27px}
+.cubes_ofis_article_img_1{float:left;width:100%}
+.cubes_ofis_article_icon{left:8%;position:absolute;top:45%;z-index:3}
+.cubes_ofis_article_img_2{float:left;padding-left:37%;width:100%}
+.col50.cubes_rows_1_article.rellax{margin-top:-12%}
+.cubes_rows_3_icon{bottom:0;left:70%;position:absolute}
+.icerik_footer{background-color:#c6784b;float:left;padding:5px 20px;position:relative;width:100%}
+.icerik_footer_center{float:left;left:auto;position:relative;text-align:center;top:auto;-webkit-transform:translate(0px,0px);-moz-transform:translate(0px,0px);-ms-transform:translate(0px,0px);-o-transform:translate(0px,0px);transform:translate(0px,0px);width:100%}
+.icerik_footer_left{float:left;margin-top:10px;text-align:center;width:100%}
+.icerik_footer_right.firmalar_logolar{float:right;margin-top:11px;text-align:center;width:100%}
+.icerik_footer_center_bilgiformulink{display:inline-block;float:none;margin-top:4px;vertical-align:middle}
+.icerik_footer_center_tel{display:inline-block;float:none;font-size:18px;margin-left:20px;margin-right:20px;margin-top:5px}
+.icerik_footer_center_sosyal{display:inline-block;float:none;margin-left:6px;margin-right:0;margin-top:7px;padding:10px 0}
+.firmalar_logolar a{display:inline-block;float:none;height:22px;margin:0 10px;vertical-align:middle;}
+.cubes_pages .home_sitebuton{width:86%}
+.icerik_footer_right a::after{background-color:transparent}
+.thumbsfull li{width:47%}
+.cubes_daireplani_article h2{font-size:30px}
+.cubes_daireplani_skycube h1{font-size:30px}
+.cubes_daireplani_3 .col50{width:100%}
+.cubes_daireplani_7 .col50.cubes_daireplani_skycube_1_article.rellax{padding-right:11%;padding-top:7%}
+.cubes_rows.cubes_rows_1.cubes_daireplani_7{padding-bottom:23%}
+.cubes_daireplani_3_left_img{float:left;width:100%}
+.cubes_daireplani_3_left_title{float:left;padding-left:6%;padding-right:5%;padding-top:16%;width:100%}
+.cubes_daireplani_3_left_cube{bottom:0;position:absolute;right:3%}
+.cubes_daireplani_3_right_img{float:left;width:100%}
+.cubes_daireplani_3_right_title{float:left;padding-left:10%;padding-right:5%;padding-top:16%;width:100%}
+.cube_rows_6_cube.relax{bottom:2%;left:-16%;position:absolute}
+.cubes_rows_article_first{font-size:16px;}
+.cubes_pages .menu{height:100%;}
+.iletisim_box_maps{bottom:0;float:left;height:50%;left:0;position:absolute;width:100%;}
+.iletisim_box_header{float:left;height:50%;left:0;position:absolute;text-align:center;top:0;width:100%;}
+.intro_text_baslik{float:left;font-size:17px;letter-spacing:5px;line-height:26px;padding-bottom:20px;width:100%;}
+.intro_text_baslik > span{font-size:19px;letter-spacing:9px;}
+.iletisim_box_close{margin-right:13px;margin-top:14px;position:relative;z-index:9;}
+.iletisim_box_header_logo > img{width:34%;}
+.footer_butonyer{bottom:-18px;}
+.rellax{-webkit-transform:none !important;-moz-transform:none !important;-ms-transform:none !important;-o-transform:none !important;transform:none !important;}
+.cubes_rows_2_pattern{z-index:-1;}
+.cubes_rows_2_left{padding-bottom:0;padding-left:5%;}
+.cubes_rows_1_article{padding-left:5%;}
+.cubes_rows_4_left{padding-left:5%;padding-top:21%;}
+.cubes_ofis_guvenlik{margin-top:21%;}
+.cubes_rows_4_img1{width:100%;}
+.cubes_rows_4_img2{float:right;margin-top:-8%;position:relative;width:58%;z-index:3;}
+.cubes_rows_6_left{padding-left:5%;}
+.cubes_rows_5_right{padding-left:5%;}
+body{overflow:scroll !important;}
+.cubes_daireplani_skycube_1_article{padding-left:5%;}
+.cubes_daireplani_3_right_cube{position:absolute;right:58%;top:48%;}
+.cubes_daireplani_3_right_title{padding-left:5%;}
+.cubes_daireplani_5_icon.rellax{border:0 none;position:absolute;right:52%;top:-64%;}
+.bf_gonder_sag h3{font-size:20px;}
+.bf_gonder_sag h1{font-size:30px;}
+.bf_gonder_sol{height:40%;}
+.bilgiformu_uyariyazi{padding-bottom:50px;}
+.bf_form{float:left;padding:2% 2% 0;width:100%;}
+.cubes_pages .form{left:0;width:100%;}
+.bf_form_satir_buton.form__section{padding:0 5%;width:100%;}
+.bf_form_satir_sag{float:left;padding:3px 5%;width:100%;}
+.bf_form_satir_sol{float:left;margin-top:0;padding-left:5%;padding-right:4%;text-align:left;width:100%;}
+.form__section{margin-top:0;}
+.bf_form_satir_telefon.form__section{text-align:center;}
+.bf_form_satir_telefon.form__section > a{float:none;margin-right:0;}
+.bf_gonder_alan{float:left;padding:41% 16% 0;position:relative;text-align:center;width:100%;}
+.bf_gonder_yer{background-image:url("../images/bf_gonder_background.jpg");background-position:center bottom;background-repeat:no-repeat;background-size:100% auto;min-height:500px;}
+.projesliderselected .proje_box{z-index:102;}
+.proje_box{-webkit-transform:translate(0px, 100%) !important;-moz-transform:translate(0px, 100%) !important;-ms-transform:translate(0px, 100%) !important;-o-transform:translate(0px, 100%) !important;transform:translate(0px, 100%) !important;}
+.projesliderselected.projeselected .proje_box{height:100vh;opacity:1;-webkit-transform:translate(0px, 0px) !important;-moz-transform:translate(0px, 0px) !important;-ms-transform:translate(0px, 0px) !important;-o-transform:translate(0px, 0px) !important;transform:translate(0px, 0px) !important;z-index:102;}
+.projebox_slider_box_close{display:none;}
+.iletisim_box_header_logo > img{width:177px;margin-top:20px;}
+.home_parallax_box{bottom:0;left:0;overflow-x:scroll;position:absolute;right:0;top:0;width:100%}
+.home_parallax{width:1200px}
+.scene2{width:1130px;}
+.home_parallax_pinler{width:1200px;}
+.home_pin_3 .home_pin_hover{left:auto;right:49px;}
+.home_pin_3 .home_pin_hover::after{left:auto;right:100%;}
+.home_pin_4 .home_pin_hover{left:auto;right:49px;}
+.home_pin_4 .home_pin_hover::after{left:auto;right:100%;}
+.home_pin_10 .home_pin_hover{left:auto;right:49px;}
+.home_pin_10 .home_pin_hover::after{left:auto;right:100%;}
+.home_pin_8 .home_pin_hover{left:auto;right:49px;}
+.home_pin_8 .home_pin_hover::after{left:auto;right:100%;}
+.home_pin_2{bottom:18%;left:71%;}
+.home_pin_5.home_pin{left:27%;top:40%;}
+.kurumsalicerik_box_logolar{padding-bottom:50px;}
+.kurumsalicerik_box_logolar .nuhoglulogo::after{height:19px;}
+.kurumsalicerik_box_logolar .dalgiclogo::after{height:19px;}
+.form__close{right:8%;}
+.projebox_box_close{color:#3f3f3f;cursor:pointer;float:right;font-size:35px;font-weight:200;margin-right:28px;margin-top:20px}
+
+.bilgiformu_box::after {
+	width: 142px;
+	height: 150px;
+	top: 156px;
+	right: 0;
+	background-size: contain;
+	left: 0;
+	margin: auto;
+}
+
+.bf_ustaltyazi.form__section {padding-bottom: 124px; font-size: 15px;}
+
+.iletisim_sagbuton {
+	display: none;
+}
+.bilgiformupopup { display: inline }
+
+}
+@media screen and (min-width:500px) and (max-width:767px){.menu{width:56%;}
+}
+
+
+/******************************************************
+						mobilyatay
+******************************************************/
+@media screen and (min-width: 481px) and (max-width:767px){
+
+
+.bilgiformu_box::after {
+	width: 142px;
+	height: 150px;
+	top: 207px;
+	right: 0;
+	background-size: contain;
+	left: 0;
+	margin: auto;
+}
+.bf_ustaltyazi.form__section {padding-bottom: 124px; }
+
+.iletisim_sagbuton {
+	display: none;
+}
+
+.bilgiformupopup { display: inline }
+
+
+
+
+}

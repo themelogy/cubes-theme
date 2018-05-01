@@ -1,0 +1,33 @@
+.footer-header {
+	position: relative;
+	width: 800px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.tanitim-filmi {
+	position: relative;
+	top: -50px;
+	padding: 5px 20px;
+}
+
+.btn.btn-border {
+	border: 2px solid #fff;
+}
+
+.btn.btn-xs {
+	padding: 5px 10px;
+}
+.inline-block {
+	display: inline-block;
+	width: 100%;
+	margin: 10px 0;
+}
+.perspective {
+	-webkit-perspective: 1000px;
+    -moz-perspective: 1000px;
+	perspective: 1000px;
+	overflow: hidden;
+	display: inline-block;
+	text-align: center;
+}
