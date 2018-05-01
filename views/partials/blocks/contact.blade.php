@@ -31,7 +31,7 @@
         <div class="iletisim_box_header_adres">
             {{ setting('theme::address') }}
         </div>
-        <div class="iletisim_bilgi_form_link"><a href="" class="btn btn--default" onmouseover="mouseoversound.playclip()"><span data-hover="{{ trans('themes::theme.buttons.we call you') }}">{{ trans('themes::theme.buttons.we call you') }}</span></a></div>
+        <div class="iletisim_bilgi_form_link"><a href="{{ route('page', 'cubes') }}" class="btn btn--default" onmouseover="mouseoversound.playclip()"><span data-hover="{{ trans('themes::theme.buttons.we call you') }}">{{ trans('themes::theme.buttons.we call you') }}</span></a></div>
     </header>
     <div class="iletisim_box_hover"></div>
 </section>

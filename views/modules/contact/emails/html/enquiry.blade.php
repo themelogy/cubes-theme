@@ -4,7 +4,7 @@
         <p>Cubes Ankara web sitesinde yer alan Bilgi formu doldurulup gönderilmiştir. Formda doldurulan bilgiler aşağıda verilmiştir.</p>
 
         @foreach (config('asgard.contact.config.fields') as $fieldName => $options)
-            <p><strong>{{ trans('contact::contacts.form.'.$fieldName, [], LaravelLocalization::getDefaultLocale()) }}</strong>: {{ nl2br($$fieldName) }}</p>
+            <p><strong>{{ trans('contact::contacts.form.'.$fieldName, [], LaravelLocalization::getDefaultLocale()) }}</strong>: {{ $contact->{$fieldName} }}</p>
         @endforeach
             <p><strong>Dil:</strong> {{ LaravelLocalization::getCurrentLocaleNative() }}</p>
         <hr />
