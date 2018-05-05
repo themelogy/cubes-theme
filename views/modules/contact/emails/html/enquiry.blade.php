@@ -10,6 +10,6 @@
         <hr />
         <p>En kısa zamanda müşterinizle/web sitesi ziyaretçinizle temasa geçerek bilgi isteğini karşılayınız.</p>
         <p style="color:red;"><strong>Formun gönderildiği tarih/saat:</strong> {{ \Carbon\Carbon::now()->format('d.m.Y H:i') }}</p>
-        <p style="color:red;"><strong>Formu Gönderen IP :</strong> {{ Request::getClientIp() }}</p>
+        <p style="color:red;"><strong>Formu Gönderen IP :</strong> {{ $contact->ip }}</p>
     </body>
 </html>

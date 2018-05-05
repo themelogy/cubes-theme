@@ -3,6 +3,7 @@
 <head>
     {!! seo_helper()->render() !!}
     <meta content="width=1000" name="viewport" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black" />
 
@@ -235,13 +236,13 @@
     });
 </script>
 
-{!! Theme::script('cubes/vue/js/vue.js') !!}
+{!! Theme::script('cubes/vue/js/vue.min.js') !!}
 {!! Theme::script('cubes/vue/js/axios.min.js') !!}
 {!! Theme::style('cubes/vue/css/pnotify.css') !!}
 {!! Theme::script('cubes/vue/js/pnotify.js') !!}
 {!! Theme::script('cubes/vue/js/loadingoverlay.min.js') !!}
 <script>
-    Vue.config.devtools = true;
+    // Vue.config.devtools = true;
     axios.defaults.headers.common['X-CSRF-TOKEN'] = '{{ csrf_token() }}';
     new Vue({
         el: '#formapp',

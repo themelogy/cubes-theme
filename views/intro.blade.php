@@ -29,7 +29,8 @@ seo_helper()->setSiteName('')
     <div class="intro_bg">
         <div class="fullscreen-bg">
             <video width="100%" height="100%" class="fullscreen-bg__video" autoplay muted loop webkit-playsinline>
-                <source type="video/mp4" src="{!! Theme::url('video/hizmet.mp4') !!}"></source>
+                @php $videos = collect(["video/marriott", "video/artzone", "video/asansor_otopark", "video/hizmet", "video/spor"]); @endphp
+                <source type="video/mp4" src="{!! Theme::url($videos->random().'.mp4') !!}"></source>
             </video>
         </div><!-- video -->
     </div>

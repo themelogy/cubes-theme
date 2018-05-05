@@ -1,5 +1,6 @@
 {!! seo_helper()->render() !!}
 <meta content="width=1000" name="viewport" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta name="apple-mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-status-bar-style" content="black" />
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{!! Theme::url('ico/apple-touch-icon-144-precomposed.png') !!}">
